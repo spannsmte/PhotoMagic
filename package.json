@@ -1,0 +1,26 @@
+{
+"name": "photo-agic-1",
+"version": "1.0.0",
+"description": "a powerful and easy-to-use photo editing tool that caters to both novice users and professional photographers.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/spannsmte/PhotoMagic.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "spannsmte",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
